@@ -1,2 +1,4 @@
 This is FileB
-d
+
+This is a change
+new line
